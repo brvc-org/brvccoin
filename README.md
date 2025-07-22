@@ -7,3 +7,10 @@ A proprietary coin, solely for the BRVC org
 
 **13,900,000 BRVC**  
 _The block was born. We remembered._
+
+## Hybrid Consensus Flow: Light PoW + PoS + Social Validation
+
+Participants solve a lightweight puzzle (e.g., 10 × 7) to prevent spam (Light PoW). Those who lock tokens enter a weighted-random selection to propose a block (PoS + randomness). A random validator committee then verifies the block—if valid, it’s added; if not, dispute resolution is triggered.
+Idea to implement both Pow + PoS to achieve fairness and sustainability. 
+
+_Approach of token minting via puzzles, public archives, Satoshi clues? More Pow needed?_
