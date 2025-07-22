@@ -15,4 +15,4 @@ Idea to implement both Pow + PoS to achieve fairness and sustainability.
 
 _Approach of token minting via puzzles, public archives, Satoshi clues? More Pow needed?_
 
-More tokens locked - higher  chances of being selected to propose the next block. Fairness needs to have priority or the more tokens the better? % approach?
+More tokens locked - higher  chances of being selected to propose the next block. Fairness needs to have priority or the more tokens the better? % approach? (0.01% gives 1 point 0,1% 2 points...)
