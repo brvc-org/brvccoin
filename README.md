@@ -18,7 +18,7 @@ _Approach of token minting via puzzles, public archives, Satoshi clues? More Pow
 More tokens locked - higher  chances of being selected to propose the next block. Fairness needs to have priority or the more tokens the better? % approach? (0.01% gives 1 point 0,1% 2 points...)
 
 
-
+THIS IS JUST TEST, NON-PRODUCTION-READY CODE FOR NOW
 
 ## BRVC Coin: Conceptual Outline and Pseudocode
 
