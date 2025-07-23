@@ -3,7 +3,7 @@ BRVC Coin
 
 A proprietary coin, solely for the BRVC org
 
-## 🔒 Max Supply
+## Max Supply
 
 **13,900,000 BRVC**  
 _The block was born. We remembered._
@@ -18,7 +18,7 @@ _Approach of token minting via puzzles, public archives, Satoshi clues? More Pow
 More tokens locked - higher chances of being selected to propose the next block. Fairness needs to have priority or the more tokens the better? % approach? (0.01% gives 1 point 0,1% 2 points...)
 
 
-## 📜 Genesis Stake: PoS Forged in PoW Ritual
+## Genesis Stake: PoS Forged in PoW Ritual
 
 Rather than choosing strictly between Proof‑of‑Stake or Proof‑of‑Work, we propose a hybrid model that combines the technical efficiencies of PoS with the ritual and mythology of PoW. Our goal is to create a system that feels earned, sacred, and community‑driven without the environmental drawbacks of traditional mining.
 
