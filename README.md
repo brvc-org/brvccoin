@@ -17,6 +17,7 @@ _Approach of token minting via puzzles, public archives, Satoshi clues? More Pow
 
 More tokens locked - higher chances of being selected to propose the next block. Fairness needs to have priority or the more tokens the better? % approach? (0.01% gives 1 point 0,1% 2 points...)
 
+
 ## 📜 Genesis Stake: PoS Forged in PoW Ritual
 
 Rather than choosing strictly between Proof‑of‑Stake or Proof‑of‑Work, we propose a hybrid model that combines the technical efficiencies of PoS with the ritual and mythology of PoW. Our goal is to create a system that feels earned, sacred, and community‑driven without the environmental drawbacks of traditional mining.
@@ -33,10 +34,10 @@ Rather than choosing strictly between Proof‑of‑Stake or Proof‑of‑Work, w
    - **Genesis Role Participation**: Exclusive “founder” roles granted to those who complete inaugural challenges  
 
 3. **Sacred Scarcity**  
-   By making initial token issuance contingent on engagement and discovery, we recreate the “mining” ethos—each coin feels like something discovered, not simply allocated.
+   By making initial token issuance contingent on engagement and discovery, we recreate the “mining” ethos, each coin feels like something discovered, not simply allocated.
 
 4. **Transparent & Immutable**  
-   All distribution events are recorded on‑chain. No back‑door pre‑mines or hidden allocations—every token in circulation is accounted for, earned, and publicly verifiable.
+   All distribution events are recorded on‑chain. No back‑door pre‑mines or hidden allocations, every token in circulation is accounted for, earned, and publicly verifiable.
 
 ### Why This Matters
 
