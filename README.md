@@ -46,6 +46,4 @@ All distribution events are recorded publicly on-chain. Every solved puzzle, eve
 - **Environmental Responsibility**: Using PoS avoids the energy drain of PoW mining. The system preserves the feel of "earning" a token without the environmental cost.
 - **Narrative Depth**: Each token tells a story. This mirrors the mystique of Bitcoin's genesis block and roots BRVC in a tradition of meaningful crypto design.
 
----
-
 Genesis Stake is our way of blending symbolic value with practical tech. It preserves the myth and magic of early crypto while moving toward a more inclusive, energy-conscious future. Every token is part of something bigger — a collective story unfolding on-chain.
